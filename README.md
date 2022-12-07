@@ -9,3 +9,4 @@ Para resetar aperte o botão indicado naa seta
 <br>
 <br>
 
+<H1>COMO INSTALAR  NO SERVIDOR LOCAL!!! </H1>
