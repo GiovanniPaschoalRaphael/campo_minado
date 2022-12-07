@@ -38,4 +38,4 @@ pronto o sistema está no servidor local
 Vamos colocar o Banco de dados no PhoMyAdmin 1°deixe o apache e o mysql ligados no server que você escolheu!! meu caso é o xampp <br>
 ![205532489-2ad5a0d9-2d60-452d-8d9e-dd1530df543f](https://user-images.githubusercontent.com/55327081/206052427-296168cd-2cec-4bca-839c-1eec47d8e564.png) <br>
 
-PARA ACESSAR O JOGO FAÇA ESTES PASSOS A CIMA   E ENTRE NO  localhost/campominado
+PARA ACESSAR O JOGO FAÇA ESTES PASSOS A CIMA   E ENTRE NO  http://localhost/barbershop/MVC/UI/paginas/
