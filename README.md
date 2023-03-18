@@ -1,5 +1,8 @@
 <h1>CAMPO MINADO</h1> 
 
+Um jogo clássico e simples de campo minado !!
+
+
 
 ![image](https://user-images.githubusercontent.com/55327081/206050212-cd0a82e3-6aa4-4690-b115-03bad98b9401.png)
 ![image](https://user-images.githubusercontent.com/55327081/206050711-277425c3-8bc4-4719-a5b1-7f0bd94577c5.png)
@@ -20,17 +23,17 @@ PARA O XAMPP antes de tudo abra o xampp e ligue deixe ele assim <br>
 ![205531399-0e6ff02a-0b9c-4b14-8b2d-ea82c3075f3e](https://user-images.githubusercontent.com/55327081/206052362-15f09807-4daf-420c-a588-83a029785e15.png) <br>
 se o apache e o mysql ficar verde deu tudo certo!!!
 
-PARA O XAMPP
-1°Abra a pasta (c:)
-2°Abra a pasta xampp
-3°Abra a pasta htdocs
-4°tire os arquivos do winrar deste projeto dentro da pasta htdocs
-pronto o sistema está no servidor local
+PARA O XAMPP<br>
+1°Abra a pasta (c:)<br>
+2°Abra a pasta xampp<br><br>
+3°Abra a pasta htdocs<br>
+4°tire os arquivos do winrar deste projeto dentro da pasta htdocs <br>
+pronto o sistema está no servidor local <br>
 
-PARA O WAMP
+PARA O WAMP<br>
 
-PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços 1°Abra a pasta (c:)
-2°Abra a pasta wamp64
+PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços 1°Abra a pasta (c:)<br>
+2°Abra a pasta wamp64<br>
 3°Abra a pasta wwww
 4°tire os arquivos do winrar deste projeto dentro da pasta wwww
 pronto o sistema está no servidor local
