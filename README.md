@@ -32,13 +32,16 @@ pronto o sistema está no servidor local <br>
 
 PARA O WAMP<br>
 
-PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços 1°Abra a pasta (c:)<br>
-2°Abra a pasta wamp64<br>
-3°Abra a pasta wwww
-4°tire os arquivos do winrar deste projeto dentro da pasta wwww
-pronto o sistema está no servidor local
+PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços <br>  
 
-Vamos colocar o Banco de dados no PhoMyAdmin 1°deixe o apache e o mysql ligados no server que você escolheu!! meu caso é o xampp <br>
+1°Abra a pasta (c:)<br>
+2°Abra a pasta wamp64<br>
+3°Abra a pasta wwww<br>
+4°tire os arquivos do winrar deste projeto dentro da pasta wwww<br>
+pronto o sistema está no servidor local<br>
+
+Vamos colocar o Banco de dados no PhoMyAdmin <br>
+1°deixe o apache e o mysql ligados no server que você escolheu!! meu caso é o xampp <br>
 ![205532489-2ad5a0d9-2d60-452d-8d9e-dd1530df543f](https://user-images.githubusercontent.com/55327081/206052427-296168cd-2cec-4bca-839c-1eec47d8e564.png) <br>
 
-PARA ACESSAR O JOGO FAÇA ESTES PASSOS A CIMA   E ENTRE NO  caminho localhost/campominado/
+<br>  na barra de pesquisa de seu  navegador  digite  localhost/campominado/
