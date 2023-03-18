@@ -45,3 +45,7 @@ Vamos colocar o Banco de dados no PhoMyAdmin <br>
 ![205532489-2ad5a0d9-2d60-452d-8d9e-dd1530df543f](https://user-images.githubusercontent.com/55327081/206052427-296168cd-2cec-4bca-839c-1eec47d8e564.png) <br>
 
 <br>  na barra de pesquisa de seu  navegador  digite  localhost/campominado/
+  
+
+
+
